@@ -2,6 +2,8 @@
 
 # Pegar MAC atual e alterar MAC Onu FiberHome
 
+Modelo homologado **AN5506-01-A1**
+
 Faça o download do executavel acima (**PegarMac_MudarMAC.exe**)
 
 Lembrando que para o funcionamento desse executavel, precisamos seguir a topologia abaixo:
