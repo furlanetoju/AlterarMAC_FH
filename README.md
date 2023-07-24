@@ -16,6 +16,3 @@ Depois de realizar a conexão da topogia acima, vamos rodar o **executavel** e s
 
 --------------------------------------
 
-Para quem quizer dar aquela moral no cafézinho :)
-
-<img src=img_img.jpeg width=30%>
