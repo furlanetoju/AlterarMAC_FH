@@ -4,7 +4,7 @@
 
 Modelo homologado **AN5506-01-A1**
 
-Faça o download do executavel acima (**PegarMac_MudarMAC.exe**)
+Faça o download do executavel acima (**PegaMac_TrocaMac_FH.exe**)
 
 Lembrando que para o funcionamento desse executavel, precisamos seguir a topologia abaixo:
 
